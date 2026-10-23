@@ -1,0 +1,1 @@
+print("Hello World! This is my first Python code for AI and Machine Learning.")
